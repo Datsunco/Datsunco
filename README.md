@@ -7,7 +7,7 @@
 
 HEllo, wor;d
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-DatsunCo-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/DatsunCo) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:danya200375@gmail.com)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-DatsunCo-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/datsunkun) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:danya200375@gmail.com)
 
 ---
 
