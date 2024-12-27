@@ -11,9 +11,9 @@
 
 Итак, если вы ищете разработчика, который с головой погружается в код и выходит оттуда с готовым продуктом, который заставит ваших клиентов сказать «Вау!», то я и есть ваш человек. Давайте создадим что-то особенное вместе!
 
+-  Мое резюме: [![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=google-drive)](https://disk.yandex.ru/i/cxB-XBoZuivmew)
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-DatsunCo-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/datsunkun) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:danya200375@gmail.com)
 
-- :mailbox: Мое резюме: [![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=google-drive)](https://disk.yandex.ru/i/cxB-XBoZuivmew))
 ---
 
 ### 🤝 Социальные сети:
