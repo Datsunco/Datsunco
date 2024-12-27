@@ -61,12 +61,11 @@
 
 ### ⚙️ GitHub статистика:
 
-<table>
-  <tr>
-    <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Datsunco&theme=dark&background=000000" alt="webDev's Github stats" />
-    </td>
-  </tr>
-</table>
+<p align='center'>
+   <a href="https://github-readme-stats.vercel.app/api?username=DatsunCo&show_icons=true&count_private=true">
+       <img height=150 src="https://github-readme-stats.vercel.app/api?username=DatsunCo&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/DatsunCo/github-readme-stats">
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DatsunCo&layout=compact"/></a>
+</p>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=datsunco)
