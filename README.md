@@ -13,7 +13,7 @@
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-DatsunCo-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/datsunkun) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:danya200375@gmail.com)
 
-[![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=google-drive)]([https://example.com/my-resume](https://disk.yandex.ru/i/cxB-XBoZuivmew))
+[![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=google-drive)]([https://disk.yandex.ru/i/cxB-XBoZuivmew](https://disk.yandex.ru/i/cxB-XBoZuivmew))
 ---
 
 ### 🤝 Социальные сети:
